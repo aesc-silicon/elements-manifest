@@ -10,4 +10,5 @@
   <project name="phytec-labs/elements-zibal-fpl" path="zibal-fpl"/>
   <project name="phytec-labs/elements-vexriscv" path="vexriscv" revision="stable"/>
   <project name="phytec-labs/elements-openocd" path="openocd" revision="stable"/>
+  <project name="phytec-labs/elements-embench-iot" path="embench-iot" revision="stable"/>
 </manifest>
