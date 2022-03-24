@@ -7,7 +7,7 @@
   <project name="aesc-silicon/elements-zephyr" path="zephyr" revision="main"/>
   <project name="aesc-silicon/elements-zephyr-samples" path="zephyr-samples"/>
   <project name="aesc-silicon/elements-zibal" path="zibal"/>
-  <project name="aesc-silicon/elements-zibal-fpl" path="zibal-fpl"/>
+  <project name="aesc-silicon/elements-nafarr" path="nafarr"/>
   <project name="aesc-silicon/elements-vexriscv" path="vexriscv" revision="main"/>
   <project name="aesc-silicon/elements-openocd" path="openocd" revision="main"/>
   <project name="aesc-silicon/elements-embench-iot" path="embench-iot" revision="main"/>
