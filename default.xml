@@ -11,4 +11,6 @@
   <project name="aesc-silicon/elements-vexriscv" path="vexriscv" revision="stable"/>
   <project name="aesc-silicon/elements-openocd" path="openocd" revision="stable"/>
   <project name="aesc-silicon/elements-embench-iot" path="embench-iot" revision="stable"/>
+
+  <project name="SpinalHDL/SpinalCrypto" path="SpinalCrypto" revision="master"/>
 </manifest>
